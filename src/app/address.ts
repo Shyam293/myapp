@@ -1,0 +1,7 @@
+export class Address {
+  id: string
+  firstName: string;
+  lastName: string;
+  email: string
+  phone: string;
+}
